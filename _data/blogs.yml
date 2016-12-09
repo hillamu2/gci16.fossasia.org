@@ -41,7 +41,13 @@
   article_link: http://abhijeetmanohar.blogspot.in/2016/12/hi-friends-long-time-of-splashing-codes.html
 
 - name: Adarsh Kumar
-  blog: https://abhijeetmanohar.blogspot.com
+  blog:
   blog_img: adarsh-blog2.png
   article: What I learned after participating in GCI
   article_link: https://idealadarsh.wordpress.com/2016/12/08/what-i-learned-after-participating-in-google-code-in/
+
+-name: Hillary Moutou
+ blog:http://hillamu2.edublogs.org/
+ blog_img: hqdefault.jpg
+ article : Google-code in (GCI) / Experience joining FOSSASIA
+ article_link : http://hillamu2.edublogs.org/
